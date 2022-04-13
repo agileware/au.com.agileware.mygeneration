@@ -2,7 +2,7 @@
 <extension key="au.com.agileware.mygeneration" type="module">
   <file>mygeneration</file>
   <name>My Generation</name>
-  <description>Calculates the Generation (Gen Y, Gen Z etc.) for Contacts in CiviCRM based in their Birth Date.</description>
+  <description>Calculates the Generation (Gen Y, Gen Z etc.) for Contacts in CiviCRM based on their Birth Date.</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Agileware</author>

@@ -1,6 +1,6 @@
 # My Generation
 
-Calculates the Generation (Gen Y, Gen Z etc.) for Contacts in CiviCRM based in their Birth Date.
+Calculates the Generation (Gen Y, Gen Z etc.) for Contacts in CiviCRM based on their Birth Date.
 
 Generations are defined as being:
 * Builder >= 1945
