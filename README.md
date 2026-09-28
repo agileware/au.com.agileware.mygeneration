@@ -47,8 +47,6 @@ Before the extension will function, you must complete the following one-time set
 4. Enable the Scheduled Job **Calculate Generation for Contacts** (Administer > System Settings >
    Scheduled Jobs), and set its run frequency as required (defaults to Daily).
 
-![My Generation Settings page](images/screenshot.png)
-
 No API keys, external credentials, or dependent extensions are required. Access to the settings page
 and Scheduled Job requires the **administer CiviCRM** permission.
 
